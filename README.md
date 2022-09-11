@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alexis Martin</h1>
-<h3 align="center">Aspiring full stack developer from the Philippines</h3>
+<h1 align="center">Hi, I'm Alexis Martin</h1>
+<h3 align="center">Aspiring full stack developer 👨🏼‍💻 from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyalexm&label=Profile%20views&color=0e75b6&style=flat" alt="heyalexm" /> </p>
 
