@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis Martin</h1>
-<h3 align="center">Aspiring full stack developer from the Philippines</h3>
+<h3 align="center">Aspiring full stack developer / software engineer from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyalexm&label=Profile%20views&color=0e75b6&style=flat" alt="heyalexm" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **LARAVEL, MERN, DEVOPS, & ANALYTICS**
 
-- 👨‍💻 All of my projects are available at [heyalexm.netlify.app](heyalexm.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="heyalexm.netlify.app" target="blank">[heyalexm.netlify.app] </a>
 
 - 📫 How to reach me **martinalexis2827@gmail.com**
 
