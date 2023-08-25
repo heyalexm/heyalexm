@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heyalexm" alt="heyalexm" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/heyalexm_" target="blank"><img src="https://img.shields.io/twitter/follow/heyalexm_?logo=twitter&style=for-the-badge" alt="heyalexm_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/heyalexm_" target="_blank"><img src="https://img.shields.io/twitter/follow/heyalexm_?logo=twitter&style=for-the-badge" alt="heyalexm_" /></a> </p>
 
 - 🔭 I’m currently working on **Restaurant Management System**
 
 - 🌱 I’m currently learning **LARAVEL, MERN, DEVOPS, & ANALYTICS**
 
-- 👨‍💻 All of my projects are available at <a href="heyalexm.netlify.app" target="blank">[heyalexm.netlify.app] </a>
+- 👨‍💻 All of my projects are available at <p><a href="https://heyalexm.netlify.app" target="_blank">heyalexm.netlify.app</a></p>
 
 - 📫 How to reach me **martinalexis2827@gmail.com**
 
